@@ -1,8 +1,3 @@
-NLP_Assignment_1
-___________________________________________________________________________________________________________________________________________________________
-
-
-
 Please refer to the points stated herein below which may help to understand as to how I have approached the project and done the work accordingly;
 
 1. Kindly note that I have mentioned the libraries required to run our code.
