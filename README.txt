@@ -16,7 +16,7 @@ Please refer to the points stated herein below which may help to understand as t
 	>punkt module of nltk
 	>spacy
 
-5. As per requirements of the project, I have done reasonable job to identify the below sgtated components:
+5. As per requirements of the project, I have done reasonable job to identify the below stated components:
 	>Host
 	>Award Names
 	>Award Categories
