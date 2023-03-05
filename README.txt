@@ -27,13 +27,4 @@ Please refer to the points stated herein below which may help to understand as t
 
 6. At this juncture, it is noteworthy that the count numbers mentioned against output refers to the highest frequency of the output. 
 
-7. Considering all the requirements of the assignment project I have contributed to reach the goal to fulfill requirements of the project as stated in the instructions PDF.
-
-8. For certain categories, I have considered retIetes as not many has tIeted about those categories. 
-
-Kindly refer to the file containing code attached here with and run the code and oblige. 
-Please do le us know if any further clarification is required through an e-mail registered.
-This assignment work is performed in compliance with all the ethical requirements.
-Thank you.
-
  
